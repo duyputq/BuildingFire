@@ -17,4 +17,4 @@ Sau đó cửa sổ hiện ra giao diện đám cháy. Có thể tùy chỉnh t�
 `apartment[15][4] = "F"`
 
 ## Hình ảnh minh họa
-![ChatRoom](https://github.com/duyputq/chatRoomSocketC/assets/100561979/b1366eef-3766-4fad-8378-0a7039bc5616)
+![chay-minh-hoa](https://github.com/duyputq/BuildingFire/assets/100561979/0bce5c7a-18c6-4aca-a8a8-8f6c463e4f2a)

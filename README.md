@@ -8,7 +8,9 @@ Sử dụng pygame để tạo GUI và mô phỏng 2D cháy từ 1 căn hộ c�
 ### Bước 1: Clone với HTTPS
 `git clone https://github.com/duyputq/BuildingFire.git`
 
-### Bước 2: Mở Terminal của thư mục chứa main.py
+### Bước 2: Cài thư viện pygame và matpilot
+`pip install pygame`
+`pip install matplotlib`
 
 ### Bước 3: Chạy chương trình
 `python main.py`
